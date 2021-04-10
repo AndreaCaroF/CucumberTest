@@ -59,7 +59,7 @@ public class SetValues {
 			driver.manage().deleteAllCookies();
 			driver.get("http://www.tuya.com.co/simulador-cuota-tuya");
 			driver.manage().window().maximize();
-//			Assert.assertEquals("Transacciones", txt_inicio());
+			Assert.assertEquals("Transacciones", txt_inicio());
 		} catch (Exception | AssertionError e) {
 		}
 	}

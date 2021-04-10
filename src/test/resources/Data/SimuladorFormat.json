@@ -1,0 +1,19 @@
+{"Simulador": [
+{
+"label": "Producto:",
+"locator": ".//*[@name='']",
+"value": "Mastercard"
+},
+{
+"label": "Tasa:",
+"locator": ".//*[@name='']",
+"value": ""
+},
+{
+"label": "Valor:",
+"locator": ".//*[@name='']",
+"value": "Mastercard"
+}
+]
+}
+
